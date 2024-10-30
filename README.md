@@ -13,7 +13,7 @@
 
 ### 🧩 About Me
 
-I bring a unique blend of **AI security** and **cybersecurity** expertise to the table, with hands-on experience across AI model development, LLM exploitation, and secure web development. My journey from a dynamic event planner to an award-winning AI safety engineer is fueled by an endless curiosity and dedication to making technology safer and more effective.
+I bring a unique blend of **AI security** and **cybersecurity** expertise to the table, with hands-on experience across AI model development, LLM exploitation, and secure web development. My journey from an event planner to an AI pentester is fueled by an endless curiosity and dedication to making technology safer and more effective.
 
 Currently freelancing in **AI & Web Application Development**, my primary focus is crafting **secure, scalable AI-driven applications** that prioritize **user privacy, data protection, and ethical AI**.
 
