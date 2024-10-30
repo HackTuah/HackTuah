@@ -71,7 +71,7 @@ Here’s a snapshot of some of my favorite projects:
 
 ### 🌐 Let’s Connect
 
-Whether you’re here to chat AI, explore collaboration opportunities, or just say hi, I’m open to all! You can connect with me through LinkedIn or email directly at aylacroft@gmail.com. Let's make tech a safer, smarter place together!
+Whether you’re here to chat AI, explore collaboration opportunities, or just say hi, I’m open to all! You can connect with me through LinkedIn or email directly at aylacroft@proton.me. Let's make tech a safer, smarter place together!
 
 ---
 
