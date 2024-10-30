@@ -47,7 +47,7 @@ Currently freelancing in **AI & Web Application Development**, my primary focus 
 - **(ISC)² Certified in Cybersecurity Coursework**: Network Security, Incident Response, Security Operations (2024)
 - **Lakera AI Security**: GenAI Threats and AI Application Security (2024)
 
-For a detailed look at my professional background, feel free to check out my [resume](https://aylacroft.com/resume) or [LinkedIn profile](https://www.linkedin.com/in/aylacroft/).
+For a detailed look at my professional background, feel free to check out my [website](https://aylacroft.com) or [LinkedIn profile](https://www.linkedin.com/in/aylacroft/).
 
 ---
 
