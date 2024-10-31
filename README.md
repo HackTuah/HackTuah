@@ -55,9 +55,9 @@ For a detailed look at my professional background, feel free to check out my [we
 
 Here’s a snapshot of some of my favorite projects:
 
-- **[AI at the Bar’s Edge](https://github.com/yourusername/ai-at-the-bars-edge)**: An innovative exploration of AI ethics and decision-making in unpredictable scenarios.
-- **[From Bartender to Malware Hunter](https://github.com/yourusername/from-bartender-to-malware)**: My journey from the hospitality industry to discovering and mitigating real-world cyber threats.
-- **[Gray Swan Championship](https://github.com/yourusername/gray-swan-championship)**: Insights and highlights from the AI Jailbreaking Competition.
+- **[My Journey](https://aylacroft.com/blog/code-quirks)**: How I went from bartender to web dev.
+- **[From Bartender to Malware Hunter](https://aylacroft.com/blog/from-bartender-to-malware)**: My journey from the hospitality industry to discovering and mitigating real-world cyber threats.
+- **[Gray Swan Championship](https://aylacroft.com/blog/gray-swan-championship)**: Insights and highlights from the AI Jailbreaking Competition.
 
 ---
 
