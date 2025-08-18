@@ -15,9 +15,6 @@
   <a href="mailto:aylacroft@proton.me">
     <img src="https://img.shields.io/badge/Email-aylacroft@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://app.grayswan.ai/arena">
-    <img src="https://img.shields.io/badge/Gray%20Swan%20Arena-Explore-111?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Gray Swan Arena" />
-  </a>
 </p>
 
 ---
