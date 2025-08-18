@@ -1,78 +1,93 @@
-# 👋 Hello, I'm Ayla Croft!
+<h1 align="center">Ayla Croft</h1>
+<p align="center">AI security, red teaming, maldev, strategist</p>
 
-**AI Safety & Security Engineer** | **Cybersecurity Specialist** | **Developer**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=HackTuah&color=blueviolet)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AylaCroft-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aylacroft/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aylacroft.com-9cf?logo=web&style=flat-square)](https://aylacroft.com)
-[![Email Me](https://img.shields.io/badge/Contact-aylacroft@proton.me-red?logo=gmail&style=flat-square)](mailto:aylacroft@gmail.com)
-
----
-
-### 🧩 About Me
-
-I bring a unique blend of **AI security** and **cybersecurity** expertise to the table, with hands-on experience across AI model development, LLM exploitation, and secure web development. My journey from an event planner to an AI pentester is fueled by an endless curiosity and dedication to making technology safer and more effective.
-
-Currently freelancing in **AI & Web Application Development**, my primary focus is crafting **secure, scalable AI-driven applications** that prioritize **user privacy, data protection, and ethical AI**.
-
----
-
-### 🌟 Key Achievements
-- 🏆 **Gray Swan AI Jailbreaking Competition (2024)**: Successfully jailbroke 22/25 AI models, ranking highly among security experts.
-- 💡 **Built a Thriving Network**: Collaborated with leaders in AI and cybersecurity, constantly driving forward in the fields of **AI safety** and **LLM exploitation**.
+<p align="center">
+  <!-- Visual CTAs -->
+  <a href="https://aylacroft.com">
+    <img src="https://img.shields.io/badge/aylacroft.com-live-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/aylacroft/">
+    <img src="https://img.shields.io/badge/LinkedIn-AylaCroft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/aylacroft">
+    <img src="https://img.shields.io/badge/X-@aylacroft-111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:aylacroft@proton.me">
+    <img src="https://img.shields.io/badge/Email-aylacroft@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://app.grayswan.ai/arena">
+    <img src="https://img.shields.io/badge/Gray%20Swan%20Arena-Explore-111?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Gray Swan Arena" />
+  </a>
+</p>
 
 ---
 
-### 🔐 Technical Skills
-
-#### **Languages & Tools**
-- **Languages**: Python, JavaScript, Go, Elixir, C, TypeScript, PowerShell, Bash
-- **Frameworks**: React, Next.js, Svelte, HTMX, Tailwind CSS
-- **Cybersecurity**: Threat Analysis, Ethical Hacking, Red Team Operations, AI Governance, Incident Response
-- **Security Tools**: Burp Suite, Wireshark, Nmap, Docker
-- **Cloud & Platforms**: Microsoft Azure, GitHub, Supabase, Cloudflare
-
-#### **Specializations**
-- **AI Security**: Foundation model monitoring, LLM jailbreaking, GenAI threats
-- **Machine Learning**: NLP, Computer Vision, Model Safety Protocols, Regression & Classification Models
-- **DevOps & Deployment**: CI/CD, Docker, Azure AI Services, GitHub Actions
+### Snapshot
+- Strategist and Community Manager at Gray Swan AI
+- Wins in AI red teaming competitions, Feet Feud winner at DEF CON 33
+- Co-author of a 2025 agent red teaming paper on arXiv
+- Work referenced in OpenAI system cards
+- Building two indie games and a red team tool aimed at a DEF CON 34 talk
+- Focused on agent security, evaluation, and maldev
 
 ---
 
-### 🎓 Education & Certifications
-
-- **Microsoft Learn Courses**: AI, Machine Learning, and DevOps (2023-2024)
-- **(ISC)² Certified in Cybersecurity Coursework**: Network Security, Incident Response, Security Operations (2024)
-- **Lakera AI Security**: GenAI Threats and AI Application Security (2024)
-
-For a detailed look at my professional background, feel free to check out my [website](https://aylacroft.com) or [LinkedIn profile](https://www.linkedin.com/in/aylacroft/).
+### Research
+- **Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition (2025)**  
+  arXiv: https://arxiv.org/abs/2507.20526
 
 ---
 
-### 🛠️ Projects
-
-Here’s a snapshot of some of my favorite projects:
-
-- **[My Journey](https://aylacroft.com/blog/code-quirks)**: How I went from bartender to web dev.
-- **[From Bartender to Malware Hunter](https://aylacroft.com/blog/from-bartender-to-malware)**: My journey from the hospitality industry to discovering and mitigating real-world cyber threats.
-- **[Gray Swan Championship](https://aylacroft.com/blog/gray-swan-championship)**: Insights and highlights from the AI Jailbreaking Competition.
+### Tech
+**Languages**: Elixir, Python, TypeScript/JavaScript, Go, C, PowerShell, Bash  
+**Frameworks**: Phoenix, React, Next.js, HTMX, Tailwind  
+**Security**: Red team ops, LLM and agent adversarial testing, evaluation design, threat modeling  
+**Tooling**: Docker, Nmap, Burp, Wireshark, GitHub Actions, Azure
 
 ---
 
-### 🤔 Fun Facts
+## Visuals
 
-- Before tech, I was in the world of **event planning** and **bartending**—skills that sharpened my resilience, adaptability, and creative problem-solving.
-- I'm a huge advocate for **ethical AI**, always aiming to make tech safe and accessible for everyone.
-- When I'm not coding or analyzing threats, you might find me networking at tech events or on a spontaneous travel adventure! 🌍
+<!-- Language graphs (complementary views) -->
+<p align="center">
+  <img alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackTuah&layout=donut-vertical&langs_count=12&hide_border=true&theme=github_dark" />
+</p>
+<p align="center">
+  <img alt="Most Commit Language" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HackTuah&theme=github_dark" />
+  <img alt="Repos per Language" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HackTuah&theme=github_dark" />
+</p>
+
+<!-- Repo and contribution stats -->
+<p align="center">
+  <img alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=HackTuah&show_icons=true&hide_border=true&theme=github_dark" />
+</p>
+<p align="center">
+  <img alt="GitHub Streak" 
+       src="https://streak-stats.demolab.com?user=HackTuah&theme=github-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img alt="Contribution Graph" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=HackTuah&theme=github-dark&hide_border=true" />
+</p>
+
+<!-- Trophies (optional, clean dark theme) -->
+<p align="center">
+  <img alt="Trophies" 
+       src="https://github-profile-trophy.vercel.app/?username=HackTuah&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-### 🌐 Let’s Connect
+### Selected links
+- Gray Swan Arena profile and leaderboards: https://app.grayswan.ai/arena
+- OpenAI system cards that reference the arena:
+  - o1 System Card  
+    https://openai.com/index/openai-o1-system-card/
+  - o3-mini System Card  
+    https://cdn.openai.com/o3-mini-system-card-feb10.pdf
 
-Whether you’re here to chat AI, explore collaboration opportunities, or just say hi, I’m open to all! You can connect with me through LinkedIn or email directly at aylacroft@proton.me. Let's make tech a safer, smarter place together!
 
----
-
-*“Striving for a secure, ethical future in AI and cybersecurity—one line of code at a time.”*
