@@ -1,5 +1,5 @@
 <h1 align="center">Ayla Croft</h1>
-<p align="center">AI security, red teaming, maldev, full stack SWE, AI/ML engineering, strategist</p>
+<p align="center">AI security, purple team, full stack SWE, AI/ML engineering, strategist</p>
 
 <p align="center">
   <!-- Visual CTAs -->
