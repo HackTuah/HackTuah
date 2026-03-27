@@ -20,7 +20,6 @@
 ---
 
 ### Snapshot
-- Strategist and Community Manager at Gray Swan AI
 - Wins in AI red teaming competitions, Feet Feud winner at DEF CON 33
 - Co-author of a 2025 agent red teaming paper on arXiv
 - Work referenced in OpenAI system cards
