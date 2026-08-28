@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://scriptkittyos.com"><img src="https://img.shields.io/badge/Script_Kitty_OS-scriptkittyos.com-6D4AFF?style=for-the-badge&logoColor=white" alt="Script Kitty OS" /></a>
+  <a href="https://github.com/ScriptKittyOS"><img src="https://img.shields.io/badge/Org-ScriptKittyOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Script Kitty OS on GitHub" /></a>
   <a href="https://aylacroft.com"><img src="https://img.shields.io/badge/Personal-aylacroft.com-111111?style=for-the-badge&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/aylacroft/"><img src="https://img.shields.io/badge/LinkedIn-aylacroft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/aylacroft"><img src="https://img.shields.io/badge/X-@aylacroft-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -35,8 +36,10 @@ Jido and my own Hermes runtime, running supervised in production rather than bol
 **[HackTUI](https://github.com/HackTuah/HackTUI-Hermes-Jido)** — terminal-native purple-team security operations platform
 Elixir umbrella: core, store, hub, sensor, tui, agent, collab. Postgres/Ecto persistence. Ingests journald, network flow via tshark/dumpcap, and BEAM runtime signals. Alert and investigation case lifecycle, replay engine, built-in MCP server. Research prototype.
 
-**HolyTrinity Bench** (`holytrinity.v1`)
-Adversarial benchmark for agent authorization. Measures unauthorized effect under adversarial load rather than whether a model can be made to misbehave. In active development.
+**[HolyTrinity Bench](https://github.com/ScriptKittyOS/HolyTrinity-Benchmark)** (`holytrinity.v1`)
+Everyone benchmarks whether you can make an AI agent misbehave. That question is settled. You can. 1.8 million prompt injections against 22 frontier agents settled it, and I helped write that paper.
+
+So this one measures something else: whether the effect that landed was the one that was authorized. Unauthorized effect under adversarial load, not attack success rate. In active development.
 
 ---
 
@@ -91,8 +94,7 @@ Wrote most of the [Gray Swan Arena technical blog](https://app.grayswan.ai/arena
 
 Agent authorization and the HolyTrinity control plane. Conformance work against the draft EU AI Act cybersecurity standard prEN 18282 and OMB memoranda including M-26-04.
 
-Open to consulting and invention engagements. Free consults for under-served startups.
 
 <p align="center">
-  <sub>Script Kitty OS is a company of <a href="https://sudoapt.holdings">Sudo Apt Holdings</a>.</sub>
+  <sub>Work ships under <a href="https://github.com/ScriptKittyOS">@ScriptKittyOS</a>. Script Kitty OS is a company of <a href="https://sudoapt.holdings">Sudo Apt Holdings</a>.</sub>
 </p>
