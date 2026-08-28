@@ -83,12 +83,13 @@ Wrote most of the [Gray Swan Arena technical blog](https://app.grayswan.ai/arena
 
 ## Stack
 
-**Languages** Elixir · Python · TypeScript · Go · C · Bash
-**Frameworks** Phoenix · LiveView · Ecto · React · Tailwind
-**Security** Agent adversarial testing · evaluation design · threat modeling · purple team operations
-**Infra** Postgres · Oban · Docker · Fly.io · GitHub Actions · Azure
+**Elixir and OTP.** Supervision trees, GenServers, distributed processes, PubSub. Agent runtimes running supervised in production rather than as a script with a retry loop. Phoenix, LiveView, Ecto, Oban, Postgres.
 
----
+**Agent infrastructure.** MCP servers and clients, tool routing and mediation, policy enforcement at the call boundary, receipt and audit ledgers, replay and diff.
+
+**Security.** Agent and LLM adversarial testing, evaluation and benchmark design, threat modeling, purple team operations, detection engineering, live telemetry ingest and correlation.
+
+**Also.** Python, TypeScript, Go, C, Bash. Docker, Fly.io, GitHub Actions, Azure. Enterprise networking, self-hosted infrastructure, OpenWrt, VLAN segmentation, DNS.
 
 ## Now
 
