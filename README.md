@@ -66,7 +66,7 @@ NeurIPS 2025 Datasets and Benchmarks Track · [OpenReview](https://openreview.ne
 | [Claude Sonnet 4.5](https://www.anthropic.com/claude-sonnet-4-5-system-card) | Anthropic | Sept 2025 |
 | [Claude Haiku 4.5](https://www-cdn.anthropic.com/7aad69bf12627d42234e01ee7c36305dc2f6a970.pdf) | Anthropic | Oct 2025 |
 | [Claude Opus 4.8](https://www-cdn.anthropic.com/0b4915911bb0d19eca5b5ee635c80fef830a37ea.pdf) | Anthropic | May 2026 |
-| Claude Fable 5 / Mythos 5 | Anthropic | June 2026 |
+| [Claude Fable 5 / Mythos 5](https://www.anthropic.com/claude-fable-5-mythos-5-system-card) | Anthropic | June 2026 |
 | [Muse Spark Safety Report](https://arxiv.org/pdf/2606.12429) | — | 2026 |
 
 ART was retired in 2026 after frontier models saturated it, and is cited as the prior baseline in its successor benchmark.
